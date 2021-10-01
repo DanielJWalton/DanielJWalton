@@ -1,6 +1,6 @@
 -  Hi, I’m @DanielJWalton
 -  I’m interested in 3D artwork, video effects aswell as learning how to code.
--  I’m currently learning Ajax and REST Client.
+-  I’m currently learning React.
 -  How to reach me: dwaltonjr9425@gmail.com 
 
 <!---
