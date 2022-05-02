@@ -1,7 +1,7 @@
 DANIEL WALTON
 FRONT END DEVELOPER
 
-760-457-0728 | danw.me | dev.danwalton@gmail.com | Linkedin.com/in/devdanwalton/
+760-457-0728 | https://www.danw.me/ | dev.danwalton@gmail.com | Linkedin.com/in/devdanwalton/
 
 SKILLS
 Front End
